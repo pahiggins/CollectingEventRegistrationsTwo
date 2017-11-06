@@ -1,0 +1,28 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 38.76564 38.76564">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: url(#radial-gradient);
+      }
+    </style>
+    <clipPath id="clip-path" transform="translate(3.85204 3.40208)">
+      <path id="SVGID" class="cls-1" d="M22.16839,6.64507A6.63761,6.63761,0,1,1,15.53078.00746,6.63761,6.63761,0,0,1,22.16839,6.64507ZM24.479,14.66861a6.63761,6.63761,0,1,0,6.63761,6.63761A6.63761,6.63761,0,0,0,24.479,14.66861Zm-17.75049.04871a6.63761,6.63761,0,1,0,6.63761,6.63761A6.63761,6.63761,0,0,0,6.72852,14.71733Z"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="19.38282" cy="19.38282" r="19.38282" gradientUnits="userSpaceOnUse">
+      <stop offset="0.1828" stop-color="#fdcc68"/>
+      <stop offset="0.60658" stop-color="#35b3a4"/>
+    </radialGradient>
+  </defs>
+  <title>Cenabo Icon v8b_31x28px</title>
+  <g class="cls-2">
+    <circle class="cls-3" cx="19.38282" cy="19.38282" r="19.38282"/>
+  </g>
+</svg>
